@@ -29,4 +29,4 @@ cleanup-empty-components.groovy
 All scripts have a 'dryRun' option where you can run the script in non-destructive mode, just logging :)
 
 --------------------------------------
-Dragan Kocovski (dragan.k.oz@gmail.com
+Dragan Kocovski (dragan.k.oz@gmail.com)
